@@ -8,13 +8,13 @@ run: ./configure && make
 
 Once these finishes, you can then run this command
 
-./eggdrop -m eggdrop.conf
+./eggdrop -m ublab.conf
 
 Hurray!!!! You are ready to start using the bot.
 
 # Customizing the Bot
 
-To customize this bot, just open the eggdrop.conf file in the root of ublab_bot directory and edit the information in the file then you are done. Follow the steps above then you can use the bot in your channel :)
+To customize this bot, just open the ublab.conf file in the root of ublab_bot directory and edit the information in the file then you are done. Follow the steps above then you can use the bot in your channel :)
 
 # Other Docs
 
