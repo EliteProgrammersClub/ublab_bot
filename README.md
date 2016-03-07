@@ -18,4 +18,4 @@ To customize this bot, just open the ublab.conf file in the root of ublab_bot di
 
 # Other Docs
 
-If you are have used this bot and understand how it works and want to add the documentation, you are free to do so to help others understand how the bot works.
+If you are have used this bot and understand how it works and want to add the documentation, you are free to do so to help others understand how the bot works. :)
