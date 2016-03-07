@@ -1,0 +1,17 @@
+assoc.mod
+blowfish.mod
+channels.mod
+compress.mod
+console.mod
+ctcp.mod
+dns.mod
+filesys.mod
+irc.mod
+notes.mod
+seen.mod
+server.mod
+share.mod
+transfer.mod
+uptime.mod
+wire.mod
+woobie.mod
